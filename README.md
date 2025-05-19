@@ -37,10 +37,5 @@ To simulate and visualize optimized data routing in a computer network using Dij
    - Displaying packet details in a side panel
    - Highlighting active path and current node
 
-## 📽️ Demo Preview
 
-![Demo Preview](ip_packet_routing.gif)  
-*(You can uncomment the saving function in the script to export the animation)*
-
-## 📁 Project Structure
 
